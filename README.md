@@ -1,2 +1,2 @@
 # ESP32BLE
-I'm trying to use ESP32 like scan BLE . 
+I'm trying to use ESP32 like scan WiFi . 
